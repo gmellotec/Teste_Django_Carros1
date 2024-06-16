@@ -1,0 +1,8 @@
+ADMIN DJANGO
+admin
+123456
+
+BANCO DE DADOS POSTGRES
+user = 'postgres'
+password = '1234567890'
+host = 'localhost'
